@@ -1,4 +1,4 @@
-# KaggleTitanicDecisionTreePipeline <br />
+# KaggleTitanicData <br />
 
 ### Analysing Kaggle's Titanic data and building machine learning models <br />
 
